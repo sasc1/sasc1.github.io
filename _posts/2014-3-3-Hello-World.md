@@ -14,8 +14,11 @@ The Webstrom IDE suites webdevelopement with node.js and angular.js very well. I
 I had a codebase with node.js as backend and angular.js as frontend and wanted to use it in my project. I opened the project folder in Webstorm and for the most part everything was fine. You can select your app.js or server.js and run it. Webstorm will start the node server and you can visit the webpage in your browser. 
 
 ###### But ....
-if you look in your source code, you will notice, that Webstorm gives a hint to you, that "require" is unresolved.
+if you look in your source code, you will notice, that Webstorm gives some hints to you. For example the "require" is unresolved hint.
 Okay, if you create a pure node.js project from scratch, then this hint is not there, because Webstorm knows require. You even can go to the definitions. So what's up ? I searched at fist for the project settings in Webstorm. Unfortunately they are missing in Webstorm ??!! I worked previously with Intellij, also a great product from the same developer, and there was a project settings entry in the menu. Webstorm is missing this important feature :D If someone knows where I can find it, contact me.
 
 ##### Searching for a solution
-Webstorm is very powerful, therefore i wanted to use all of it's features. 
+Webstorm is very powerful, therefore i wanted to use all of it's features. It didn't know "require" because Webstorm uses a trick to know it. It has predefined libraries for node, and they are not active. To get them to work you must edit two files in the .idea folder (in linux):
+1. jsLibraryMappings.xml
+ add these lines: <file url="PROJECT" libraries="{Node.js v0.10.32 Core Modules}" />
+ <includedPredefinedLibrary name="Node.js Globals" />
