@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a passionate software developer who has a lot of fun to develop software. Sometimes, you spend many hours to get something up and running. Sometimes it gets really frustrating, especially if you want to learn new technologies. The bright side is that you collect a lot of expirience. I created this block to share my expirience with you.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+If you have some question regarding my posts, pm me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[samirasoftcomp@gmail.com](mailto:samirasoftcomp@gmail.com)
