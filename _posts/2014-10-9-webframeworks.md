@@ -47,7 +47,7 @@ I had a codebase with node.js as backend and angular.js as frontend and wanted t
 
 *But ....*  
 if you look in your source code, you will notice, that there are some unresolved issues. For example the "require" identifier is unresolved.
-Okay, if you create a pure node.js project from scratch, then this issue is not there, because WebStorm knows the identifier "require". You even can go to the definitions. So what's up ? I searched at fist for the project settings in WebStorm and hoped that you can change this behaviour somewhere. Unfortunately project settings are missing in Webstorm ??!! I worked previously with Intellij, also a great product from the same developer, and there was a project settings entry in the menu. Webstorm is missing this important feature :D If someone knows where I can find it, contact me.
+Okay, if you create a pure node.js project from scratch, then this issue is not there, because WebStorm knows the identifier "require". You even can go to the definitions. So what's up ?
 
 ###### Searching for a solution
 WebStorm is very powerful, therefore i wanted to use all of it's features. It didn't know "require" because Webstorm uses a trick to know it. It has predefined libraries for node, and they are not active for my project. To get them to work you must edit two files in the .idea folder (in linux):
