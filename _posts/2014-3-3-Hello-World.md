@@ -23,6 +23,8 @@ Webstorm is very powerful, therefore i wanted to use all of it's features. It di
 1. jsLibraryMappings.xml
  add these lines:
 <plaintext>
-<file url="PROJECT" libraries="{Node.js v0.10.32 Core Modules}" /><br />
+<file url="PROJECT" libraries="{Node.js v0.10.32 Core Modules}" />
+</plaintext><br />
+<plaintext>
 <includedPredefinedLibrary name="Node.js Globals" />
 </plaintext>
