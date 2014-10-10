@@ -28,7 +28,7 @@ The editors are listed according to my preference. Some pros and cons.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\+** &nbsp;minimalistic  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\+** &nbsp;really easy to extend with own extensions  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\-** &nbsp;without extensions not really useful  
-&nbsp;&nbsp;&nbsp;2. Eclipse
+&nbsp;&nbsp;&nbsp;2. Eclipse  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\+** &nbsp;is really flexible with a lot of plugins  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\-** &nbsp;more difficult to setup  
 
