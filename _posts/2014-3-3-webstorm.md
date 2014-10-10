@@ -41,12 +41,12 @@ There is no refactoring (only simple replace), and code assistance is not as goo
 The last editor is fine also, but it lacks code assistence completely without the necessary plugins. For this purpose use tern, it's okay. But if you ever used WebStrom there is no comparison. The standard version of eclipse is ugly too, you should change the theme if you don't want to hurt your eyes badly.
 
 ##### Webstorm IDE and node.js + angular.js 
-The WebStrom IDE suites webdevelopement with node.js and angular.js very well. If you want to start a new project you will notice, that you can choose between a node.js and an angular.js application. But we want both in one project !
-I had a codebase with node.js as backend and angular.js as frontend and wanted to use it in my project. I opened the project folder in Webstorm and for the most part everything was fine. You can select your app.js or server.js and run it. Webstorm will start the node server and you can visit the webpage in your browser. 
+The WebStrom IDE suites webdevelopement with node.js and angular.js very well. If you want to start a new project you will notice, that you can choose between a node.js and an angular.js application. But what if you want to use both at the same time ?
+I had a codebase with node.js as backend and angular.js as frontend and wanted to use it in my project. I opened the project folder in WebStorm and for the most part everything was fine. You can select your app.js or server.js and run it. WebStorm will start the node server and you can visit the webpage in your browser. 
 
-###### But ....
-if you look in your source code, you will notice, that Webstorm gives some hints to you. For example the "require" is unresolved hint.
-Okay, if you create a pure node.js project from scratch, then this hint is not there, because Webstorm knows require. You even can go to the definitions. So what's up ? I searched at fist for the project settings in Webstorm. Unfortunately they are missing in Webstorm ??!! I worked previously with Intellij, also a great product from the same developer, and there was a project settings entry in the menu. Webstorm is missing this important feature :D If someone knows where I can find it, contact me.
+*But ....*
+if you look in your source code, you will notice, that there are some unresolved issues. For example the "require" identifier is unresolved.
+Okay, if you create a pure node.js project from scratch, then this issue is not there, because WebStorm knows the identifier "require". You even can go to the definitions. So what's up ? I searched at fist for the project settings in WebStorm and hoped that you can change this behaviour somewhere. Unfortunately project settings are missing in Webstorm ??!! I worked previously with Intellij, also a great product from the same developer, and there was a project settings entry in the menu. Webstorm is missing this important feature :D If someone knows where I can find it, contact me.
 
 ###### Searching for a solution
 Webstorm is very powerful, therefore i wanted to use all of it's features. It didn't know "require" because Webstorm uses a trick to know it. It has predefined libraries for node, and they are not active for my project. To get them to work you must edit two files in the .idea folder (in linux):
