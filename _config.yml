@@ -8,6 +8,9 @@ name: sasc BLOG
 # Short bio or description (displayed in the header)
 description: Big Software
 
+# searchengine displays this text
+searchdescription: A softwaredevelopment blog. Node.js, Angular.js, Webstorm, Brackets and so on are covered.
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/pow.png
 
