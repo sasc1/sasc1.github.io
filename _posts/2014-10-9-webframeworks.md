@@ -2,6 +2,7 @@
 layout: post
 title: Hi WEB!
 categories : [node,angular,programming,webstorm,eclipse,brackets]
+comments: True
 ---
 
 On this blog i will share some of my experiences with different software products, programming languages, design patterns and so on. I hope you have fun reading my blog.
