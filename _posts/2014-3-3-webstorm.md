@@ -31,5 +31,5 @@ Webstorm is very powerful, therefore i wanted to use all of it's features. It di
 <orderEntry type="library" name="Node.js v0.10.32 Core Modules" level="application" />
 {% endhighlight %}
 
-Replace $PROJECTNAME with the actual project name.
+Replace $PROJECTNAME with the actual project name. Then reload the project in webstorm. Now you will see, that "require" is defined in webstorm and you can even jump to the definition with Ctrl+B.
 
