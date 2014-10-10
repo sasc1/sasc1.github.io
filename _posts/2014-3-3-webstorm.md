@@ -22,13 +22,23 @@ The editors are listed according to my preference. Some pros and cons.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\+** &nbsp;smartest IDE ever  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\+** &nbsp;complete package  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\-** &nbsp;startup is slower then the other two  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\-** &nbsp;it costs money ;-(
 &nbsp;&nbsp;&nbsp;2. Brackets  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\+** &nbsp;fast startup  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\+** &nbsp;minimalistic  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\+** &nbsp;really easy to extend with own extensions  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\-** &nbsp;without extensions not really useful  
+&nbsp;&nbsp;&nbsp;2. Eclipse
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\+** &nbsp;is really flexible with a lot of plugins  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\-** &nbsp;more difficult to setup  
 
+My favorite is WebStorm because it's by far the most intuitive and the most productive system.
+Refactoring, autocompletion, helpsystem and debugging are working like a charm. You install it and it works how it is supposed to work. A little downside is that it costs money. But you can check it out for free for 30 days. Try it!
 
+Brackets is brilliant too, but not there yet.
+There is no refactoring (only simple replace), and code assistance is not as good as in Webstorm. But i liked it, because, you can extend it on the go. You can jump in the extensions code, change it, and viola you have a better editor! My fist step with Brackets was writing an extension for node.js, to start all the necessary servers and debug configuration ala theseus.
+
+The last editor is fine also, but it lacks code assistence completely without the necessary plugins. I used tern, it's okay. But if you ever used WebStrom there is no comparison. The standard version of eclipse is ugly too, you should change the theme if you don't want to hurt your eyes badly.
 
 ##### Webstorm IDE and node.js + angular.js 
 The Webstrom IDE suites webdevelopement with node.js and angular.js very well. If you want to start a new project you will notice, that you can choose between a node.js and an angular.js application. But we want both in one project !
