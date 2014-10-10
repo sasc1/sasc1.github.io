@@ -12,10 +12,10 @@ In angular.js you need to learn a lot of new concepts, like modules, directives,
 
 ##### Searching for the best editor for node.js and angular.js programming
 One of the important things left if you have choosen your frameworks, is the selection of your development tools.
-If you research this issue you will find a lot of editors and IDEs for webdevelopment. A limited selection is:
-1. [WebStorm](https://www.jetbrains.com/webstorm/)
-2. [Brackets](http://brackets.io/)
-3. [Eclipse with Node Plugin](http://www.nodeclipse.org/)
+If you research this issue you will find a lot of editors and IDEs for webdevelopment. A limited selection is:  
+1. [WebStorm](https://www.jetbrains.com/webstorm/)  
+2. [Brackets](http://brackets.io/)  
+3. [Eclipse with Node Plugin](http://www.nodeclipse.org/)  
 
 The editors are listed according to my preference.
 
