@@ -6,8 +6,18 @@ categories : [node,angular,programming,webstorm,eclipse,brackets]
 
 On this blog i will share some of my experiences with different software products, programming languages, design patterns and so on. I hope you have fun reading my blog.
 
+##### Frameworks for webdevelopment
+Ok, i wanted to start a new web project with the **best** tools one can get. The future is node.js :D, so i could not resist to develop with it. As it's only for the backend you need a framework for the frontend too. There are really a lot of choices. I decided to go with angular.js. I will try react later, it is also really powerful. It's said that react is more simple than angular.js, because you need to grasp only the component design pattern. It's straight forward and easy to understand, because you use the components like you would have a POJO (Plain Old Java Object).
+In angular.js you need to learn a lot of new concepts, like modules, directives, injection and so on. But that's the beauty of this.
+
 ##### Searching for the best editor for node.js and angular.js programming
-Ok, i wanted to start a new web project with the **best** tools one can get. The future is node.js :D, so i could not resist to develop with it. As it's only for the backend i searched another framework for the frontend. There are really a lot of choices, so i decided to go with angular.js. I will try react later, it is also really powerful.
+One of the important things left if you have choosen your frameworks, is the selection of your development tools.
+If you research this issue you will find a lot of editors and IDEs for webdevelopment. A limited selection is:
+1. [WebStorm](https://www.jetbrains.com/webstorm/)
+2. [Brackets](http://brackets.io/)
+3. [Eclipse with Node Plugin](http://www.nodeclipse.org/)
+
+The editors are listed according to my preference.
 
 ##### Webstorm IDE and node.js + angular.js 
 The Webstrom IDE suites webdevelopement with node.js and angular.js very well. If you want to start a new project you will notice, that you can choose between a node.js and an angular.js application. But we want both in one project !
