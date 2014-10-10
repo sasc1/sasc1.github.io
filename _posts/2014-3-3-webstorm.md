@@ -20,6 +20,15 @@ If you research this issue you will find a lot of editors and IDEs for webdevelo
 The editors are listed according to my preference. Some pros and cons.  
 &nbsp;&nbsp;&nbsp;1. WebStorm  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\+** &nbsp;smartest IDE ever
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\+** &nbsp;complete package
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\-** &nbsp;startup is slower then the other two
+&nbsp;&nbsp;&nbsp;2. Brackets
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\+** &nbsp;fast startup
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\+** &nbsp;minimalistic
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\+** &nbsp;really easy to extend with own extensions
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\-** &nbsp;without extensions not really useful
+
+
 
 ##### Webstorm IDE and node.js + angular.js 
 The Webstrom IDE suites webdevelopement with node.js and angular.js very well. If you want to start a new project you will notice, that you can choose between a node.js and an angular.js application. But we want both in one project !
