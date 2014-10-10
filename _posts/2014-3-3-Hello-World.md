@@ -19,19 +19,10 @@ Okay, if you create a pure node.js project from scratch, then this hint is not t
 
 ##### Searching for a solution
 Webstorm is very powerful, therefore i wanted to use all of it's features. It didn't know "require" because Webstorm uses a trick to know it. It has predefined libraries for node, and they are not active. To get them to work you must edit two files in the .idea folder (in linux):
-<style>
-blockquote { 
-    display: block;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    margin-left: 40px;
-    margin-right: 40px;
-}
-</style>
 
 1. jsLibraryMappings.xml
  add these lines:
-<blockquote cite="http://www.worldwildlife.org/who/index.html">
+<plaintext>
 <file url="PROJECT" libraries="{Node.js v0.10.32 Core Modules}" /><br />
 <includedPredefinedLibrary name="Node.js Globals" />
-</blockquote>
+</plaintext>
