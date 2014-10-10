@@ -7,40 +7,30 @@ categories : [openshift,node.js]
 I hope we stay in touch ... forever :D
 
 <pre>
-                                                            
-               . ......ZMMI.                                
-             ..MMMMM.DMMMMMM..                              
-             .MMMMMMMMMMMMMMM.                              
-             MMMMMMMMMMMMMMMM.                              
-             MMMMMMMMMMMMMMMM.                  MMM         
-             .MMMMMMMMMMMMMM. .        MMMM. ,MMMMM         
-             ..MMMMMMMMMMMM.           MMMMMMMMMMMM         
-                ,MMMMMMMMM.            MMMMMMMMMMMMM        
-                ...MMMMMM              ,MMMMMMMMMMMM        
-                   ..MMM .              MMMMMMMMMMM~        
-                     .M.                =MMMMMMMMM          
-                                        MMMMMMMMMM          
-                                . ZMMMMMMMMMMMMMMM          
-                            ..MMMMMMMMMMMMMMMMMMMMM         
-                           ,MMMMMMMMMMMMMMMMMMMMMMM         
-                         .MMMMMMMMMMMMMMMMMMMMMMMMM         
-                         MMMMMMMMMMMMMMMMMMMMMMMMM          
-                        MMMMMMMMMMMMMMMMMMMMMMMMM           
-                       MMMMMMMMMMMMMMMMMMMMMMMM             
-                      MMMMMMMMMMMMMMMMMMMMMMMM.             
-                     .MMMMMMMMMMMMMMMMMMMMMMMN              
-                     MMMMMMMMMMMMMMMMMMMMMMMM.              
-                     MMMMMMMMMMMMMMMMMMMMMMMM               
-                    MMMMMMMMMMMMMMMMMMMMMMMMM               
-                    MMMMMMMMMMMMMMMMMM.  MMMM               
-                   MMMMMMMMMMMMMMMMMM    :MMM=              
-                 +MMMMMMMMMMMMMMMMMM      MMMM,             
-               OMMMMMMMMMMMMMMMMMMM$$,    .MMMMM            
-            MMMMMMMMMMMMMMMMMMMMMMMMMMM     MMMMI           
-         MMMMMMMM.     .................     .7M            
-        MMMMM                                               
-       .MMM                                                 
-        MMM+                                                
-         :MMM.                                              
-          ...                                               
+
+                                        
+          .....ZMI.                     
+         MMMMMMMMMM.                    
+        .MMMMMMMMMM.                    
+        .MMMMMMMMMM.      MI   MMM      
+        ..MMMMMMMM.      .MMMMMMMM      
+           .MMMMM         MMMMMMMM.     
+            ..MM.         .MMMMMMM      
+                          .MMMMMM       
+                      MMMMMMMMMMM       
+                   MMMMMMMMMMMMMMM      
+                 MMMMMMMMMMMMMMMM$      
+                MMMMMMMMMMMMMMMM:       
+               MMMMMMMMMMMMMMMM.        
+              MMMMMMMMMMMMMMMM          
+              MMMMMMMMMMMMMMMM          
+             NMMMMMMMMMMMMMMMM          
+             MMMMMMMMMMMM  =MM          
+            MMMMMMMMMMMM   .MMM         
+         =MMMMMMMMMMMMMMM:  .MMM        
+      MMMMM:   ,..........    7M        
+     MMM                                
+     MM:                                
+       MO                               
+
 </pre>
