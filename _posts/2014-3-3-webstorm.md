@@ -38,7 +38,7 @@ Refactoring, autocompletion, helpsystem and debugging are working like a charm. 
 Brackets is brilliant too, but not there yet.
 There is no refactoring (only simple replace), and code assistance is not as good as in Webstorm. But i liked it, because, you can extend it on the go. You can jump in the extensions code, change it, and viola you have a better editor! My first step with Brackets was writing an extension for node.js, to start all the necessary servers and debug configuration ala theseus.
 
-The last editor is fine also, but it lacks code assistence completely without the necessary plugins. I used tern, it's okay. But if you ever used WebStrom there is no comparison. The standard version of eclipse is ugly too, you should change the theme if you don't want to hurt your eyes badly.
+The last editor is fine also, but it lacks code assistence completely without the necessary plugins. For this purpose use tern, it's okay. But if you ever used WebStrom there is no comparison. The standard version of eclipse is ugly too, you should change the theme if you don't want to hurt your eyes badly.
 
 ##### Webstorm IDE and node.js + angular.js 
 The Webstrom IDE suites webdevelopement with node.js and angular.js very well. If you want to start a new project you will notice, that you can choose between a node.js and an angular.js application. But we want both in one project !
