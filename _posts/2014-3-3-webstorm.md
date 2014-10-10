@@ -7,8 +7,8 @@ categories : [node,angular,programming,webstorm,eclipse,brackets]
 On this blog i will share some of my experiences with different software products, programming languages, design patterns and so on. I hope you have fun reading my blog.
 
 ##### Frameworks for webdevelopment
-Ok, i wanted to start a new web project with the **best** tools one can get. The future is node.js :D, so i could not resist to develop with it. As it's only for the backend you need a framework for the frontend too. There are really a lot of choices. I decided to go with angular.js. I will try react later, it is also really powerful. It's said that react is more simple than angular.js, because you need to grasp only the component design pattern. It's straight forward and easy to understand, because you use the components like you would have a POJO (Plain Old Java Object).
-In angular.js you need to learn a lot of new concepts, like modules, directives, injection and so on. But that's the beauty of this.
+Ok, i wanted to start a new web project with the **best** tools one can get. The future is node.js :D, so i could not resist to develop with it. As it's only for the backend you need a framework for the frontend too. There are really a lot of choices. I decided to go with angular.js. I will try react later, it is also really powerful. It's said that react is more simple than angular.js, because you need to grasp only the component design pattern. It's straight forward and easy to understand, because you use the components like you would have POJOs (Plain Old Java Objects).
+In angular.js you need to learn a lot of new concepts like modules, directives, injection and so on. But that's the beauty of this.
 
 ##### Searching for the best editor for node.js and angular.js programming
 One of the important things left if you have choosen your frameworks, is the selection of your development tools.
