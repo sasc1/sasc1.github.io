@@ -41,7 +41,7 @@ There is no refactoring (only simple replace), and code assistance is not as goo
 The last editor is fine also, but it lacks code assistence completely without the necessary plugins. For this purpose use tern, it's okay. But if you ever used WebStrom there is no comparison. The standard version of eclipse is ugly too, you should change the theme if you don't want to hurt your eyes badly.
 
 ##### Webstorm IDE and node.js + angular.js 
-The Webstrom IDE suites webdevelopement with node.js and angular.js very well. If you want to start a new project you will notice, that you can choose between a node.js and an angular.js application. But we want both in one project !
+The WebStrom IDE suites webdevelopement with node.js and angular.js very well. If you want to start a new project you will notice, that you can choose between a node.js and an angular.js application. But we want both in one project !
 I had a codebase with node.js as backend and angular.js as frontend and wanted to use it in my project. I opened the project folder in Webstorm and for the most part everything was fine. You can select your app.js or server.js and run it. Webstorm will start the node server and you can visit the webpage in your browser. 
 
 ###### But ....
