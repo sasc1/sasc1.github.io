@@ -19,12 +19,17 @@ if you look in your source code, you will notice, that Webstorm gives some hints
 Okay, if you create a pure node.js project from scratch, then this hint is not there, because Webstorm knows require. You even can go to the definitions. So what's up ? I searched at fist for the project settings in Webstorm. Unfortunately they are missing in Webstorm ??!! I worked previously with Intellij, also a great product from the same developer, and there was a project settings entry in the menu. Webstorm is missing this important feature :D If someone knows where I can find it, contact me.
 
 ##### Searching for a solution
-Webstorm is very powerful, therefore i wanted to use all of it's features. It didn't know "require" because Webstorm uses a trick to know it. It has predefined libraries for node, and they are not active. To get them to work you must edit two files in the .idea folder (in linux):
+Webstorm is very powerful, therefore i wanted to use all of it's features. It didn't know "require" because Webstorm uses a trick to know it. It has predefined libraries for node, and they are not active for my project. To get them to work you must edit two files in the .idea folder (in linux):
 
-1. jsLibraryMappings.xml
- add these lines:
+1. jsLibraryMappings.xml, add these lines:
 {% highlight html %}
 <file url="PROJECT" libraries="{Node.js v0.10.32 Core Modules}" />
 <includedPredefinedLibrary name="Node.js Globals" />
 {% endhighlight %}
+2. $PROJECTNAME.iml, add these lines:
+{% highlight html %}
+<orderEntry type="library" name="Node.js v0.10.32 Core Modules" level="application" />
+{% endhighlight %}
+
+Replace $PROJECTNAME with the actual project name.
 
