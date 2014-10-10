@@ -36,7 +36,7 @@ My favorite is WebStorm because it's by far the most intuitive and the most prod
 Refactoring, autocompletion, helpsystem and debugging are working like a charm. You install it and it works how it is supposed to work. A little downside is that it costs money. But you can check it out for free for 30 days. Try it!
 
 Brackets is brilliant too, but not there yet.
-There is no refactoring (only simple replace), and code assistance is not as good as in Webstorm. But i liked it, because, you can extend it on the go. You can jump in the extensions code, change it, and viola you have a better editor! My fist step with Brackets was writing an extension for node.js, to start all the necessary servers and debug configuration ala theseus.
+There is no refactoring (only simple replace), and code assistance is not as good as in Webstorm. But i liked it, because, you can extend it on the go. You can jump in the extensions code, change it, and viola you have a better editor! My first step with Brackets was writing an extension for node.js, to start all the necessary servers and debug configuration ala theseus.
 
 The last editor is fine also, but it lacks code assistence completely without the necessary plugins. I used tern, it's okay. But if you ever used WebStrom there is no comparison. The standard version of eclipse is ugly too, you should change the theme if you don't want to hurt your eyes badly.
 
