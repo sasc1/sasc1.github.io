@@ -44,7 +44,7 @@ The last editor is fine also, but it lacks code assistence completely without th
 The WebStrom IDE suites webdevelopement with node.js and angular.js very well. If you want to start a new project you will notice, that you can choose between a node.js and an angular.js application. But what if you want to use both at the same time ?
 I had a codebase with node.js as backend and angular.js as frontend and wanted to use it in my project. I opened the project folder in WebStorm and for the most part everything was fine. You can select your app.js or server.js and run it. WebStorm will start the node server and you can visit the webpage in your browser. 
 
-*But ....*
+*But ....*  
 if you look in your source code, you will notice, that there are some unresolved issues. For example the "require" identifier is unresolved.
 Okay, if you create a pure node.js project from scratch, then this issue is not there, because WebStorm knows the identifier "require". You even can go to the definitions. So what's up ? I searched at fist for the project settings in WebStorm and hoped that you can change this behaviour somewhere. Unfortunately project settings are missing in Webstorm ??!! I worked previously with Intellij, also a great product from the same developer, and there was a project settings entry in the menu. Webstorm is missing this important feature :D If someone knows where I can find it, contact me.
 
